@@ -1,6 +1,6 @@
 ### # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am Kundan Agrawal
-A CE student studying at I2IT Pune. Always eager to learn new things,
+a CE student studying at I2IT Pune. Always eager to learn new things,
 I am a Tech enthusiast and love coding. Deeply interested in ML.
 Open for collaberation on projects.
 
